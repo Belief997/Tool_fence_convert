@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1540602795 source:d:\xiaoan\proj\fence_convert_tool\fence_convert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cJSON.h"
+	"crc16.h"
+	"protocol.h"
+
+1533304669 source:d:\xiaoan\proj\fence_convert_tool\fence_convert\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
+1533304669 d:\xiaoan\proj\fence_convert_tool\fence_convert\cjson.h
+
+1540560431 source:d:\xiaoan\proj\fence_convert_tool\fence_convert\crc16.c
+	"crc16.h"
+
+1533304704 d:\xiaoan\proj\fence_convert_tool\fence_convert\crc16.h
+
+1540560843 d:\xiaoan\proj\fence_convert_tool\fence_convert\protocol.h
+	"types.h"
+
+1540560514 d:\xiaoan\proj\fence_convert_tool\fence_convert\types.h
+
